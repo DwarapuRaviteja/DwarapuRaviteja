@@ -142,7 +142,7 @@ currently_learning: [React, Node.js, Express.js]
       <p>A portal-analysis project built with Python and web technologies, designed around analysing information presented through a web portal.</p>
       <p><b>Technologies:</b> Python, HTML, CSS, JavaScript.</p>
       <p align="center"><a href="https://github.com/DwarapuRaviteja/CGPA-ANALYZER"><b>View Repository ↗</b></a></p>
-      <p><b>This is a private repository</b></p>
+      <p align="center" color="orange"><b>This is a private repository</b></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧭 CareerPath AI</h3>
