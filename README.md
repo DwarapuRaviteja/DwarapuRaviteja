@@ -141,14 +141,14 @@ currently_learning: [React, Node.js, Express.js]
       <p align="center"><img src="https://img.shields.io/badge/TYPE-Web%20Application-2563EB?style=for-the-badge" alt="Web application" /></p>
       <p>A portal-analysis project built with Python and web technologies, designed around analysing information presented through a web portal.</p>
       <p><b>Technologies:</b> Python, HTML, CSS, JavaScript.</p>
-      <p align="center"><i href="https://github.com/DwarapuRaviteja/CGPA-ANALYZER"><b>View Repository ↗</b><b>it was on private, if you want the code send me req.</b></i></p>
+      <p align="center"><a href="https://github.com/DwarapuRaviteja/CGPA-ANALYZER"><b>View Repository ↗</b><b>it was on private, if you want the code send me req.</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧭 CareerPath AI</h3>
       <p align="center"><img src="https://img.shields.io/badge/TYPE-Career%20%26%20Opportunity%20Discovery-0D9488?style=for-the-badge" alt="Career and opportunity discovery" /></p>
       <p>A career-discovery project concept focused on helping users explore relevant internships and job opportunities through a more accessible interface.</p>
       <p><b>Focus:</b> opportunity discovery and filtering.</p>
-      <p align="center"><i href="https://github.com/DwarapuRaviteja/CareerPath"><b>View Repository ↗</b></i></p>
+      <p align="center"><a href="https://github.com/DwarapuRaviteja/CareerPath"><b>View Repository ↗</b></a></p>
     </td>
   </tr>
   <tr>
@@ -157,14 +157,14 @@ currently_learning: [React, Node.js, Express.js]
       <p align="center"><img src="https://img.shields.io/badge/TYPE-AI%20Chatbot-F59E0B?style=for-the-badge" alt="AI chatbot" /></p>
       <p>A conversational travel assistant concept for answering travel-related questions and helping users explore trip ideas.</p>
       <p><b>Focus:</b> conversational assistance and travel information.</p>
-      <p align="center"><i href="https://github.com/DwarapuRaviteja/Travel_chatbot"><b>View Repository ↗</b></i></p>
+      <p align="center"><a href="https://github.com/DwarapuRaviteja/Travel_chatbot"><b>View Repository ↗</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧮 Advanced CGPA Calculator</h3>
       <p align="center"><img src="https://img.shields.io/badge/TYPE-Academic%20Productivity-DB2777?style=for-the-badge" alt="Academic productivity" /></p>
       <p>A calculator project designed to simplify semester-grade entry and CGPA/SGPA calculation, with an image-based result extraction workflow.</p>
       <p><b>Focus:</b> academic calculations and reducing manual data entry.</p>
-      <p align="center"><i href="https://github.com/DwarapuRaviteja/Advanced-CGPA-Calculator"><b>View Repository ↗</b></i></p>
+      <p align="center"><a href="https://github.com/DwarapuRaviteja/Advanced-CGPA-Calculator"><b>View Repository ↗</b></a></p>
     </td>
   </tr>
 </table>
