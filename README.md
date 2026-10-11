@@ -26,6 +26,31 @@
 
 </div>
 
+<!-- Featured portfolio CTA: placed directly after the profile header -->
+<div align="center">
+  <a href="https://dwarapuraviteja.github.io/My_Portfolio/">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:070B1A,35:312E81,70:4338CA,100:0891B2&text=✦%20EXPLORE%20MY%20PORTFOLIO&fontColor=FFFFFF&fontSize=29&fontAlignY=45&animation=fadeIn" alt="Explore Raviteja's portfolio" />
+  </a>
+  <br/><br/>
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🌌 Step Into My Digital Space</h3>
+        <p>Discover my projects, skills, and the things I'm building.</p>
+        <a href="https://dwarapuraviteja.github.io/My_Portfolio/">
+          <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-Explore%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/DwarapuRaviteja?tab=repositories">
+          <img src="https://img.shields.io/badge/EXPLORE%20THE%20CODE-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
+        </a>
+        <br/><br/>
+        <sub>PORTFOLIO · PROJECTS · LEARNING JOURNEY</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## ◈ About Me
