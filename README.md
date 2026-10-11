@@ -1,92 +1,76 @@
 <div align="center">
 
-<!-- ═══════════════ NEXUS: CINEMATIC HEADER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,50:302b63,100:00e5ff&text=RAVITEJA&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=60&descSize=17"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=RAVITEJA&fontSize=68&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&color=0:050816,35:21104B,70:5426A8,100:00E5FF&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=17&descAlignY=57"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=650&color=00E5FF&center=true&vCenter=true&width=850&height=55&lines=FULL+STACK+DEVELOPER;AI+%26+AUTOMATION+ENTHUSIAST;BUILDING+THE+NEXT+THING;CODE.+CREATE.+ITERATE.+REPEAT."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Universe;Full+Stack+Developer+in+Progress;Building+Projects+That+Matter;Exploring+AI+and+Automation;Turning+Ideas+Into+Applications"/>
 
 <br><br>
 
-<!-- VISITOR COUNTER -->
-
-<img src="https://komarev.com/ghpvc/?username=DwarapuRaviteja&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile view counter"/>
-
-<img src="https://img.shields.io/github/followers/DwarapuRaviteja?label=FOLLOWERS&style=for-the-badge&color=0891B2&logo=github" alt="GitHub followers"/>
-
-<img src="https://img.shields.io/github/stars/DwarapuRaviteja?affiliations=OWNER%2CCOLLABORATOR&label=REPOSITORY%20STARS&style=for-the-badge&color=F59E0B&logo=github" alt="Repository stars"/>
+<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-00e5ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTEREST-Artificial%20Intelligence-bd00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MINDSET-Always%20Learning-00cc88?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://github.com/DwarapuRaviteja">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_CODE-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/raviteja-dwarapu-37b9b7323/">
-  <img src="https://img.shields.io/badge/CONNECT_WITH_ME-0B1020?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-### `SYSTEM ONLINE` &nbsp; // &nbsp; `CREATIVITY UNLOCKED`
+```yaml
+Name: Raviteja Dwarapu
+Role: Aspiring Full Stack Developer
+Education: Computer Science Engineering
 
-*Welcome to my corner of the developer universe.*
+Interests:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Software Engineering
+  - Automation
+  - Problem Solving
 
-</div>
+Goal: Build impactful software and become a skilled engineer.
+```
 
-## ◈ 01 — DEVELOPER PROFILE
-
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer coding animation"/>
-
-I'm a Computer Science Engineering student passionate about building useful applications and exploring modern software technologies.
-
-- 🎓 Computer Science Engineering
-- 💻 Full Stack Development
-- 🤖 Artificial Intelligence & Automation
-- 🧠 Problem Solving and Continuous Learning
-- 🚀 Turning ideas into working applications
-
-**My philosophy:** Learn deeply. Build boldly. Improve constantly.
-
-<br clear="right"/>
+- 🎓 Computer Science Engineering student.
+- 💻 Interested in frontend and backend development.
+- 🤖 Exploring AI-powered applications and automation.
+- 🚀 Building projects that solve practical problems.
+- 🌱 Continuously learning new technologies.
+- 🎯 Working towards becoming a professional software engineer.
 
 ---
 
-## ◈ 02 — TECHNOLOGY MATRIX
+## ⚡ My Technology Arsenal
 
 <div align="center">
 
-**PROGRAMMING**
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark"/>
 
-<br><br>
-
-**FRONTEND**
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
 
-<br><br>
+### ⚙️ Backend Development
 
-**BACKEND**
+<img src="https://skillicons.dev/icons?i=nodejs,flask,php&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,flask&theme=dark"/>
-
-<br><br>
-
-**DATABASE SYSTEMS**
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 
-<br><br>
-
-**DEVELOPER TOOLKIT**
+### 🛠️ Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
@@ -94,203 +78,172 @@ I'm a Computer Science Engineering student passionate about building useful appl
 
 ---
 
-## ◈ 03 — PROJECT UNIVERSE
+# 🚀 Featured Projects
+
+## 🥇 01. Ideal Portal Analyzer
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECTS-IDEAS%20INTO%20REALITY-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-00BFA6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FEATURED%20PROJECT-01-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ACADEMIC%20ANALYTICS-BD00FF?style=for-the-badge"/>
 
 </div>
 
-### `01` — IDEAL PORTAL ANALYZER
+**Ideal Portal Analyzer** is my featured project, focused on academic information and performance analysis.
 
-> **My primary featured project**
+### ✨ Project Highlights
 
-An academic portal analysis project focused on making academic information easier to explore and understand.
+- 📊 Academic performance analysis.
+- 📈 Student results and performance insights.
+- 🎓 Academic data organization and visualization.
+- 🔍 Easier access to useful academic information.
 
-**Project overview**
-- Academic portal analysis.
-- Organized presentation of relevant academic information.
-- Project-specific analysis and insights.
+**Technology Stack:** Update this list to match the actual technologies used in your project.
 
-**Technology stack:** To be updated with the project's actual implementation.
+`HTML` `CSS` `JavaScript` `Backend` `Database`
 
-<div align="left">
+<div align="center">
 
-<!-- Replace the URLs below with the real repository and demo URLs. -->
+<!-- Replace # with the actual repository and live-demo URLs -->
 
-<a href="https://github.com/DwarapuRaviteja">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="#">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-### `02` — SATQUERY AI
+## 🏥 02. Hospital Management System
 
-**An agentic vision-language assistant for remote-sensing image analysis.**
+A web application designed to simplify hospital-related activities and appointment management.
 
-Exploring natural-language interaction with satellite imagery and geospatial data to make spatial analysis more accessible.
-
-- 🌍 Interactive Earth visualization.
-- 🛰️ Satellite imagery analysis.
-- 🤖 AI-assisted spatial questions.
-- 📊 Geospatial information visualization.
-
-**Planned / selected technologies:** React, TypeScript, CesiumJS, Python, FastAPI, PyTorch, Rasterio, and PostGIS.
-
-[Explore my repositories →](https://github.com/DwarapuRaviteja?tab=repositories)
-
----
-
-### `03` — ADVANCED CGPA CALCULATOR
-
-An academic calculation project designed to simplify semester results and grade analysis.
-
-- 📚 Subject and credit organization.
-- 📊 CGPA and SGPA calculations.
-- 🖼️ Result-image processing.
-- 📄 Academic report generation.
-
-**Technologies:** Python, Flask, HTML, CSS, and JavaScript.
-
-[Explore my repositories →](https://github.com/DwarapuRaviteja?tab=repositories)
-
----
-
-### `04` — HOSPITAL MANAGEMENT SYSTEM
-
-A web application for organizing hospital-related activities and appointment booking.
+### Features
 
 - 🩺 Doctor and department selection.
-- 📅 Appointment booking.
+- 📅 Appointment booking workflow.
 - 👤 Patient booking management.
 - 📄 Reports and appointment summaries.
+- 💰 Wallet-based booking functionality.
 
-[VIEW SOURCE CODE](https://github.com/DwarapuRaviteja/Hospital-management-system)  
-[LIVE DEMO](https://dwarapuraviteja.github.io/Hospital-management-system/)
-
----
-
-### `05` — AI & FULL STACK EXPERIMENTS
-
-A growing collection of projects exploring web applications, AI-powered assistants, automation, and modern development techniques.
-
-- 🌐 Full stack web applications.
-- 🤖 AI-powered assistants.
-- 🧠 Intelligent automation.
-- 💡 Experimental software concepts.
-
-[VIEW ALL REPOSITORIES](https://github.com/DwarapuRaviteja?tab=repositories)
-
----
-
-## ◈ 04 — GITHUB INTELLIGENCE
+**Technology:** HTML, CSS, JavaScript, and the project's backend technologies.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DwarapuRaviteja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<a href="https://github.com/DwarapuRaviteja/Hospital-management-system">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarapuRaviteja&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://dwarapuraviteja.github.io/Hospital-management-system/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🤖 03. AI-Powered Applications
+
+Exploring artificial intelligence to build applications that make information easier to access and tasks easier to complete.
+
+### Focus Areas
+
+- 🧠 Generative AI integration.
+- 💬 AI-powered chatbots.
+- ⚙️ Intelligent automation.
+- 🔍 AI-assisted information processing.
+
+**Technology:** Python, APIs, and AI tools, depending on the project.
+
+---
+
+## 🌍 04. Travel Chatbot
+
+An AI-powered travel assistant designed to help users explore destinations and get travel-related information through conversations.
+
+### Features
+
+- 💬 Conversational travel assistance.
+- 🌎 Destination exploration.
+- ✈️ Travel suggestions.
+- 🤖 AI-generated responses.
+
+**Technology:** Python, Flask, and AI integration.
+
+---
+
+## 💻 05. More Projects Coming Soon
+
+I am continuously exploring new ideas and building applications to improve my development skills.
+
+More projects will be added here as they become ready to showcase.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DwarapuRaviteja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarapuRaviteja&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=DwarapuRaviteja&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=DwarapuRaviteja&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## ◈ 05 — CONTRIBUTION CONSTELLATION
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DwarapuRaviteja&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20DEVELOPMENT%20ACTIVITY" alt="GitHub contribution activity"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=DwarapuRaviteja&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-## ◈ 06 — ACHIEVEMENT GALLERY
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DwarapuRaviteja&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwarapuRaviteja&bg_color=0d1117&color=00e5ff&line=bd00ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
 ---
 
-## ◈ 07 — THE INTERACTIVE ZONE
+## 🐍 Contribution Snake
 
 <div align="center">
 
-### 🎮 READY TO EXPLORE?
-
-My profile is more than a collection of repositories.
-
-Enter the interactive developer experience and test your reflexes in a neon-inspired mini-game.
-
-<a href="https://dwarapuraviteja.github.io/DwarapuRaviteja/game/">
-  <img src="https://img.shields.io/badge/▶_LAUNCH_NEXUS_MINI_GAME-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch the interactive game"/>
-</a>
-
-<br>
-
-*The game becomes available after the GitHub Pages setup is completed.*
+<img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/DwarapuRaviteja/DwarapuRaviteja/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-## ◈ 08 — DEVELOPER MINDSET
-
-<div align="center">
-
-```text
-while (curious) {
-    learn();
-    experiment();
-    build();
-    debug();
-    improve();
-}
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Ideas+are+the+beginning.;Execution+makes+them+real.;Every+bug+is+a+lesson.;Every+project+is+progress."/>
-
-</div>
-
----
-
-## ◈ 09 — LET'S CONNECT
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/DwarapuRaviteja">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/raviteja-dwarapu-37b9b7323/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/DwarapuRaviteja?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=DwarapuRaviteja&label=THANKS%20FOR%20VISITING&color=00BFA6&style=for-the-badge" alt="Profile visits"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00E5FF,45:5426A8,100:050816"/>
-
-### `END OF TRANSMISSION`
-
-**Thanks for visiting. Keep building extraordinary things.** ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:302b63&height=120&section=footer"/>
 
 </div>
