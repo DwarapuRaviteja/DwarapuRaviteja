@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#090a0e">
+<meta name="description" content="Raviteja Dwarapu — developer portfolio">
+<title>Raviteja Dwarapu | Developer Dossier</title>
+<style>
+:root{--bg:#090a0e;--panel:#11131a;--red:#ff4655;--gold:#ffc857;--blue:#67d8ff;--text:#f4f4f7;--muted:#a3a5b1;--line:#292b35}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,Segoe UI,Arial,sans-serif;overflow-x:hidden}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:-1;background:radial-gradient(ellipse at 15% 5%,#3d111b66,transparent 40%),radial-gradient(ellipse at 95% 40%,#102f4260,transparent 38%),linear-gradient(180deg,#090a0e,#0a0b10 60%,#08090d)}
+#particles{position:fixed;inset:0;pointer-events:none;z-index:-1;opacity:.5}
+a{color:inherit;text-decoration:none}
+.wrap{width:min(1120px,92%);margin:auto}
+nav{display:flex;align-items:center;justify-content:space-between;padding:22px 0;border-bottom:1px solid #ffffff13}
+.brand{font-weight:900;letter-spacing:.12em;font-size:.86rem}.brand span{color:var(--red)}
+.navlinks{display:flex;gap:22px;color:var(--muted);font-size:.82rem}.navlinks a:hover{color:var(--gold)}
+.hero{min-height:82vh;display:grid;grid-template-columns:1.2fr .8fr;align-items:center;gap:40px;padding:70px 0 85px}
+.kicker{font:700 .72rem ui-monospace,monospace;letter-spacing:.22em;text-transform:uppercase;color:var(--gold)}
+h1{font-size:clamp(3.2rem,8vw,6.8rem);line-height:.88;letter-spacing:-.065em;margin:24px 0}
+h1 span{display:block;color:var(--red);text-shadow:0 0 30px #ff46553d}
+.lead{font-size:1.06rem;line-height:1.8;color:#c3c4ce;max-width:570px}
+.ctas{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}
+.btn{display:inline-flex;align-items:center;gap:9px;padding:13px 17px;border:1px solid #ffffff28;border-radius:6px;font-size:.84rem;font-weight:800;letter-spacing:.04em;transition:.25s}
+.btn.primary{background:var(--red);border-color:var(--red);color:white;box-shadow:0 0 25px #ff46552b}
+.btn:hover{transform:translateY(-3px);box-shadow:0 8px 35px #ff465526}
+.reactor-wrap{display:grid;place-items:center;min-height:360px;position:relative}
+.reactor{width:min(310px,70vw);aspect-ratio:1;border-radius:50%;position:relative;display:grid;place-items:center;filter:drop-shadow(0 0 30px #ff46552a)}
+.reactor:before,.reactor:after{content:"";position:absolute;border-radius:50%;inset:0;border:2px solid #ff4655aa;animation:spin 13s linear infinite}
+.reactor:before{inset:10%;border-color:#ffc857aa;border-style:dashed;animation-duration:18s;animation-direction:reverse}
+.reactor:after{inset:23%;border:1px solid #67d8ff99;box-shadow:inset 0 0 25px #67d8ff26,0 0 28px #67d8ff18;animation-duration:8s}
+.core{width:26%;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle,#fff 0%,#a9f1ff 13%,#67d8ff 36%,#1681b4 58%,#0b2030 72%);box-shadow:0 0 25px #67d8ff,0 0 70px #67d8ff8c;animation:pulse 2.4s ease-in-out infinite}
+.ring{position:absolute;border:1px solid #ffffff23;border-radius:50%;inset:-8%;transform:rotateX(67deg) rotateZ(-25deg);animation:spin 19s linear infinite}
+.ring.two{inset:-13%;transform:rotateX(67deg) rotateZ(48deg);animation-direction:reverse;animation-duration:24s}
+.orbit-label{position:absolute;bottom:2%;font:700 .68rem ui-monospace,monospace;letter-spacing:.22em;color:#a9eaff}
+section{padding:70px 0;border-top:1px solid #ffffff12}
+.section-head{display:flex;align-items:end;justify-content:space-between;gap:18px;margin-bottom:28px}
+.section-no{font:700 .72rem ui-monospace,monospace;color:var(--red);letter-spacing:.18em}
+h2{font-size:clamp(1.8rem,4vw,2.8rem);margin:8px 0 0;letter-spacing:-.04em}
+.sub{color:var(--muted);max-width:460px;line-height:1.65;font-size:.9rem}
+.about-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:18px}
+.panel{background:linear-gradient(145deg,#14161eeb,#0e1016f2);border:1px solid var(--line);border-radius:10px;padding:25px;position:relative;overflow:hidden}
+.panel:before{content:"";position:absolute;top:0;left:0;width:60px;height:2px;background:var(--red);box-shadow:0 0 15px var(--red)}
+.panel p{color:#b8bac5;line-height:1.8;margin-bottom:0}
+.data-list{display:grid;gap:15px}.data-row{display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid #ffffff10;padding-bottom:12px;font-size:.88rem}.data-row span:first-child{color:var(--muted)}.data-row strong{text-align:right}
+.skills{display:flex;flex-wrap:wrap;gap:10px}
+.skill{padding:10px 13px;border:1px solid #ffffff20;border-radius:5px;background:#ffffff05;color:#e5e6ed;font-size:.84rem;transition:.25s}
+.skill:hover{border-color:var(--gold);color:var(--gold);transform:translateY(-3px);box-shadow:0 0 18px #ffc85716}
+.projects{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+.project{min-height:225px;transition:transform .3s,border-color .3s;cursor:default}
+.project:hover{transform:translateY(-6px);border-color:#ff46558a}
+.project-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:24px}
+.project-icon{width:42px;height:42px;display:grid;place-items:center;border-radius:8px;background:#ff46551b;border:1px solid #ff46553b;font-size:1.3rem}
+.tag{font:700 .65rem ui-monospace,monospace;color:var(--gold);letter-spacing:.12em}
+.project h3{margin:0 0 10px;font-size:1.15rem}.project p{font-size:.88rem;line-height:1.7;color:var(--muted);margin:0 0 18px}
+.project-foot{font-size:.77rem;color:#e2e3eb;display:flex;justify-content:space-between;gap:10px;align-items:center}
+.project-foot a{color:var(--red);font-weight:800}.project-foot a:hover{color:var(--gold)}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.stat{padding:22px;border:1px solid var(--line);background:#11131a;border-radius:8px}
+.stat strong{display:block;font-size:1.5rem;color:var(--gold);margin-bottom:8px}.stat span{font-size:.82rem;color:var(--muted)}
+.contact{display:flex;justify-content:space-between;align-items:center;gap:25px;flex-wrap:wrap}
+.socials{display:flex;gap:10px;flex-wrap:wrap}.social{padding:12px 15px;border:1px solid #ffffff20;border-radius:5px;font-weight:700;font-size:.82rem;transition:.2s}.social:hover{border-color:var(--red);color:var(--red)}
+footer{padding:25px 0;color:#747784;font-size:.76rem;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.reveal{opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s ease}.reveal.visible{opacity:1;transform:translateY(0)}
+.scanline{position:fixed;inset:0;pointer-events:none;z-index:5;opacity:.08;background:repeating-linear-gradient(to bottom,transparent 0px,transparent 3px,#fff 4px);mix-blend-mode:overlay}
+@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{0%,100%{transform:scale(.94);filter:brightness(.9)}50%{transform:scale(1.06);filter:brightness(1.25)}}
+@media(max-width:760px){.hero{grid-template-columns:1fr;padding:65px 0}.reactor-wrap{min-height:290px}.about-grid,.projects{grid-template-columns:1fr}.stats{grid-template-columns:1fr}.navlinks{gap:11px;font-size:.72rem}.section-head{align-items:start;flex-direction:column}h1{font-size:clamp(3.1rem,16vw,5rem)}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}.reveal{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+<canvas id="particles"></canvas><div class="scanline"></div>
+<div class="wrap">
+<nav><a class="brand" href="#home">RD<span> / </span>DEV DOSSIER</a><div class="navlinks"><a href="#about">ABOUT</a><a href="#skills">SKILLS</a><a href="#projects">PROJECTS</a><a href="#contact">CONTACT</a></div></nav>
+<header class="hero" id="home">
+<div>
+<div class="kicker">Developer dossier · File 001</div>
+<h1>RAVITEJA <span>DWARAPU.</span></h1>
+<p class="lead">Aspiring Full Stack Developer building practical web applications, exploring AI-powered tools, and turning ideas into working projects—one commit at a time.</p>
+<div class="ctas"><a class="btn primary" href="#projects">▸ EXPLORE PROJECTS</a><a class="btn" href="https://github.com/DwarapuRaviteja" target="_blank" rel="noreferrer">↗ GITHUB PROFILE</a></div>
+</div>
+<div class="reactor-wrap" aria-label="Animated glowing reactor graphic"><div class="reactor"><div class="ring"></div><div class="ring two"></div><div class="core"></div></div><div class="orbit-label">SYSTEM ONLINE · BUILD MODE</div></div>
+</header>
+<section id="about" class="reveal">
+<div class="section-head"><div><div class="section-no">01 / PERSONNEL FILE</div><h2>About the developer</h2></div><p class="sub">A quick snapshot—kept focused on my learning, skills, and real projects.</p></div>
+<div class="about-grid"><article class="panel"><div class="kicker">Mission statement</div><p>I enjoy creating useful applications with clean frontend experiences and dependable backend logic. I’m developing my full-stack skills through hands-on projects, problem solving, and continuous learning.</p></article>
+<article class="panel data-list"><div class="data-row"><span>Role</span><strong>Full Stack Developer (aspiring)</strong></div><div class="data-row"><span>Focus</span><strong>Web · APIs · AI applications</strong></div><div class="data-row"><span>Approach</span><strong>Learn → Build → Improve</strong></div></article></div>
+</section>
+<section id="skills" class="reveal"><div class="section-head"><div><div class="section-no">02 / TECH LOADOUT</div><h2>Tools I work with</h2></div><p class="sub">Skills and technologies from my current learning and project work.</p></div><div class="panel"><div class="skills"><span class="skill">HTML</span><span class="skill">CSS</span><span class="skill">JavaScript</span><span class="skill">React</span><span class="skill">Python</span><span class="skill">Flask</span><span class="skill">Java</span><span class="skill">C</span><span class="skill">MySQL</span><span class="skill">Git</span><span class="skill">GitHub</span><span class="skill">VS Code</span><span class="skill">REST APIs</span></div></div></section>
+<section id="projects" class="reveal"><div class="section-head"><div><div class="section-no">03 / ACTIVE PROJECT FILES</div><h2>Built with purpose.</h2></div><p class="sub">A small selection of projects. Project descriptions and stack labels can be edited to match the exact implementation.</p></div>
+<div class="projects">
+<article class="panel project"><div class="project-top"><div class="project-icon">⌘</div><span class="tag">FILE · 01</span></div><h3>Ideal Portal Analyzer</h3><p>Project showcase slot. Replace this text with the verified purpose and features of your Ideal Portal Analyzer.</p><div class="project-foot"><span>Stack: update as needed</span><a href="https://github.com/DwarapuRaviteja" target="_blank" rel="noreferrer">VIEW CODE ↗</a></div></article>
+<article class="panel project"><div class="project-top"><div class="project-icon">◉</div><span class="tag">FILE · 02</span></div><h3>SatQuery AI</h3><p>An AI-assisted remote-sensing concept designed for natural-language questions about satellite imagery and spatial evidence.</p><div class="project-foot"><span>React · TypeScript · FastAPI</span><a href="https://github.com/DwarapuRaviteja" target="_blank" rel="noreferrer">VIEW CODE ↗</a></div></article>
+<article class="panel project"><div class="project-top"><div class="project-icon">∑</div><span class="tag">FILE · 03</span></div><h3>Advanced CGPA Calculator</h3><p>Academic result workflow concept featuring image-based extraction, SGPA/CGPA calculations, and printable result reports.</p><div class="project-foot"><span>Python · Flask · JavaScript</span><a href="https://github.com/DwarapuRaviteja" target="_blank" rel="noreferrer">VIEW CODE ↗</a></div></article>
+<article class="panel project"><div class="project-top"><div class="project-icon">✚</div><span class="tag">FILE · 04</span></div><h3>Hospital Management System</h3><p>A web project covering hospital workflows such as appointment booking and patient-facing pages.</p><div class="project-foot"><span>HTML · CSS · JavaScript</span><a href="https://github.com/DwarapuRaviteja/Hospital-management-system" target="_blank" rel="noreferrer">REPOSITORY ↗</a></div></article>
+</div></section>
+<section class="reveal"><div class="section-head"><div><div class="section-no">04 / DEVELOPER METRICS</div><h2>Progress, not perfection.</h2></div><p class="sub">Live GitHub statistics are available in the README version below.</p></div><div class="stats"><div class="stat"><strong>BUILD</strong><span>Turn concepts into working features.</span></div><div class="stat"><strong>LEARN</strong><span>Improve through consistent practice.</span></div><div class="stat"><strong>SHIP</strong><span>Iterate, test, and keep moving.</span></div></div></section>
+<section id="contact" class="reveal"><div class="contact"><div><div class="section-no">05 / OPEN CHANNEL</div><h2>Let’s connect.</h2><p class="sub">Find my code, professional profile, and problem-solving journey.</p></div><div class="socials"><a class="social" href="https://github.com/DwarapuRaviteja" target="_blank" rel="noreferrer">GitHub ↗</a><a class="social" href="https://www.linkedin.com/in/raviteja-dwarapu-37b9b7323/" target="_blank" rel="noreferrer">LinkedIn ↗</a><a class="social" href="https://leetcode.com/u/raviteja_dwarapu/" target="_blank" rel="noreferrer">LeetCode ↗</a><a class="social" href="https://www.codechef.com/users/raviteja_d" target="_blank" rel="noreferrer">CodeChef ↗</a></div></div></section>
+<footer><span>© <span id="year"></span> Raviteja Dwarapu</span><span>STAY CURIOUS · BUILD BOLDLY · SHIP BETTER</span></footer>
+</div>
+<script>
+document.getElementById('year').textContent=new Date().getFullYear();
+const reveals=document.querySelectorAll('.reveal');
+const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('visible');observer.unobserve(entry.target)}}),{threshold:.12});
+reveals.forEach(el=>observer.observe(el));
+const canvas=document.getElementById('particles'),ctx=canvas.getContext('2d');let w,h,dpr,particles=[];
+function resize(){dpr=Math.min(window.devicePixelRatio||1,2);w=innerWidth;h=innerHeight;canvas.width=w*dpr;canvas.height=h*dpr;canvas.style.width=w+'px';canvas.style.height=h+'px';ctx.setTransform(dpr,0,0,dpr,0,0);particles=Array.from({length:Math.min(75,Math.floor(w/18))},()=>({x:Math.random()*w,y:Math.random()*h,r:Math.random()*1.5+.35,v:Math.random()*.28+.08,a:Math.random()*.45+.1}))}
+function draw(){ctx.clearRect(0,0,w,h);for(const p of particles){p.y-=p.v;if(p.y<0){p.y=h;p.x=Math.random()*w}ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fillStyle=`rgba(255,${90+Math.floor(p.a*100)},${100+Math.floor(p.a*80)},${p.a})`;ctx.fill()}requestAnimationFrame(draw)}
+window.addEventListener('resize',resize);resize();draw();
+</script>
+</body>
+</html>
