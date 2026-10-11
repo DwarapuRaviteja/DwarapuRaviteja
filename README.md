@@ -16,7 +16,10 @@
 <br/>
 
 <a href="https://github.com/DwarapuRaviteja?tab=followers"><img src="https://img.shields.io/github/followers/DwarapuRaviteja?label=Followers&style=for-the-badge&logo=github&color=6366F1" alt="GitHub followers" /></a>
-<a href="https://github.com/DwarapuRaviteja"><img src="https://komarev.com/ghpvc/?username=DwarapuRaviteja&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile views" /></a>
+<a href="https://github.com/DwarapuRaviteja">
+  <img src="https://img.shields.io/badge/Profile%20Views-100-blue?style=for-the-badge" alt="Profile views" />
+</a>
+
 <a href="https://github.com/DwarapuRaviteja?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 
 <br/><br/>
