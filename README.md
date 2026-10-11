@@ -106,7 +106,7 @@ currently_learning: [React, Node.js, Express.js]
 
 ## 🚀 Featured Projects
 
-> Animated graphics and visual cards add depth to the profile. GitHub README files support Markdown/HTML and embedded images, but they do not run custom JavaScript or CSS animations.
+>
 
 <table>
   <tr>
@@ -138,14 +138,14 @@ currently_learning: [React, Node.js, Express.js]
       <p align="center"><img src="https://img.shields.io/badge/TYPE-Web%20Application-2563EB?style=for-the-badge" alt="Web application" /></p>
       <p>A portal-analysis project built with Python and web technologies, designed around analysing information presented through a web portal.</p>
       <p><b>Technologies:</b> Python, HTML, CSS, JavaScript.</p>
-      <p align="center"><i>Add the repository link and a more specific feature description when ready.</i></p>
+      <p align="center"><i>https://github.com/DwarapuRaviteja/CGPA-ANALYZER</i></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧭 CareerPath AI</h3>
       <p align="center"><img src="https://img.shields.io/badge/TYPE-Career%20%26%20Opportunity%20Discovery-0D9488?style=for-the-badge" alt="Career and opportunity discovery" /></p>
       <p>A career-discovery project concept focused on helping users explore relevant internships and job opportunities through a more accessible interface.</p>
       <p><b>Focus:</b> opportunity discovery and filtering.</p>
-      <p align="center"><i>Project details and repository link can be added as development progresses.</i></p>
+      <p align="center"><i>https://github.com/DwarapuRaviteja/CareerPath</i></p>
     </td>
   </tr>
   <tr>
@@ -154,7 +154,7 @@ currently_learning: [React, Node.js, Express.js]
       <p align="center"><img src="https://img.shields.io/badge/TYPE-AI%20Chatbot-F59E0B?style=for-the-badge" alt="AI chatbot" /></p>
       <p>A conversational travel assistant concept for answering travel-related questions and helping users explore trip ideas.</p>
       <p><b>Focus:</b> conversational assistance and travel information.</p>
-      <p align="center"><i>Backend and repository details can be added when finalised.</i></p>
+      <p align="center"><i>[Backend and repository details can be added when finalised.](https://github.com/DwarapuRaviteja/Travel_chatbot)</i></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧮 Advanced CGPA Calculator</h3>
