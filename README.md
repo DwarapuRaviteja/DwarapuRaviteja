@@ -1,65 +1,62 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08090d,45:351015,100:08090d&height=190&section=header&text=RAVITEJA%20DWARAPU&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descSize=13&descAlignY=66&animation=fadeIn" alt="Raviteja Dwarapu header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:312e81,100:06b6d4&text=RAVITEJA%20DWARAPU&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CREATIVE%20BUILDER&descAlignY=58&descSize=15&animation=fadeIn" alt="Animated profile banner"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2600&pause=800&color=FF4655&center=true&vCenter=true&width=650&lines=BUILDING+USEFUL+THINGS+WITH+CODE;FULL+STACK+DEVELOPER+IN+PROGRESS;TURNING+IDEAS+INTO+WORKING+PROJECTS;LEARN.+BUILD.+ITERATE." alt="Animated typing intro"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=720&lines=Welcome+to+my+digital+workspace;Building+web+experiences+with+code;Exploring+AI-powered+applications;Learning+today.+Building+for+tomorrow." alt="Animated introduction"/>
 
 <br/>
-
-<img src="https://img.shields.io/badge/STATUS-ON%20A%20MISSION-ff4655?style=for-the-badge&labelColor=101116" alt="On a mission"/>
-<img src="https://komarev.com/ghpvc/?username=DwarapuRaviteja&style=for-the-badge&color=9d2430&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/DwarapuRaviteja"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/raviteja-dwarapu-37b9b7323/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=DwarapuRaviteja&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## `01` — THE DEVELOPER
+## ✦ About me
 
-```text
-NAME       Raviteja Dwarapu
-ROLE       Aspiring Full Stack Developer
-FOCUS      Web development • APIs • AI-powered applications
-CURRENT    Learning, building, and improving one project at a time
+```yaml
+name: Raviteja Dwarapu
+role: Aspiring Full Stack Developer
+focus:
+  - Building practical web applications
+  - Learning backend development and APIs
+  - Exploring AI-powered products
+  - Improving through projects and problem solving
+mindset: Learn → Build → Improve → Repeat
 ```
 
-I enjoy building practical applications that combine clean interfaces, useful backend logic, and emerging AI tools. I’m focused on strengthening my full-stack skills by building projects and learning through implementation.
+I enjoy turning ideas into useful applications with clean interfaces and practical functionality. I’m growing my skills across frontend development, backend logic, databases, and AI-enabled tools by learning through hands-on projects.
+
+## ⚙️ Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,java,c,mysql,git,github,vscode&perline=6" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,java,c,mysql,git,github,vscode&perline=6" alt="Skills and tools"/>
 </div>
 
----
-
-## `02` — PROJECT FILES
-
-> **Real projects. Real code. Continuous upgrades.**
+## 🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Ideal Portal Analyzer
-**MISSION FILE · 01**
+### 🏥 Hospital Management System
+A web-based hospital management project with appointment booking and patient-facing workflows.
 
-A project-focused entry for your Ideal Portal Analyzer. Add a short verified description of its exact features here.
+**Technologies:** HTML · CSS · JavaScript
 
-**Stack:** `Update with your actual stack`
-
-[Open project](https://github.com/DwarapuRaviteja)
+[Repository →](https://github.com/DwarapuRaviteja/Hospital-management-system)  
+[Live demo →](https://dwarapuraviteja.github.io/Hospital-management-system/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛰️ SatQuery AI
-**MISSION FILE · 02**
+An AI-assisted remote-sensing project concept for natural-language questions about satellite imagery and spatial evidence.
 
-An agentic satellite-image assistant concept for natural-language queries and evidence-grounded remote-sensing analysis.
+**Planned stack:** React · TypeScript · CesiumJS · FastAPI
 
-**Stack:** `React` · `TypeScript` · `CesiumJS` · `FastAPI`
-
-[View GitHub profile](https://github.com/DwarapuRaviteja)
+[Explore repositories →](https://github.com/DwarapuRaviteja?tab=repositories)
 
 </td>
 </tr>
@@ -67,58 +64,46 @@ An agentic satellite-image assistant concept for natural-language queries and ev
 <td width="50%" valign="top">
 
 ### 🎓 Advanced CGPA Calculator
-**MISSION FILE · 03**
+A project concept for extracting academic results from images and calculating SGPA/CGPA, with summaries and PDF output.
 
-A calculator concept for extracting academic results from images and calculating SGPA/CGPA, with result summaries and PDF output.
+**Technologies:** Python · Flask · JavaScript
 
-**Stack:** `Python` · `Flask` · `JavaScript`
-
-[View GitHub profile](https://github.com/DwarapuRaviteja)
+[Explore repositories →](https://github.com/DwarapuRaviteja?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Hospital Management System
-**MISSION FILE · 04**
+### 🧠 More experiments
+I keep exploring ideas in web development, APIs, automation, and AI. Visit my repositories for current code and project updates.
 
-A web-based hospital management project with appointment booking and related patient workflows.
-
-**Stack:** `HTML` · `CSS` · `JavaScript`
-
-[Repository](https://github.com/DwarapuRaviteja/Hospital-management-system) · [Live demo](https://dwarapuraviteja.github.io/Hospital-management-system/)
+[Browse all repositories →](https://github.com/DwarapuRaviteja?tab=repositories)
 
 </td>
 </tr>
 </table>
 
----
-
-## `03` — THE WORKBENCH
+## 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DwarapuRaviteja&show_icons=true&hide_border=true&bg_color=0d0e13&title_color=ff4655&icon_color=ffc857&text_color=e8e8ed&ring_color=ff4655" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarapuRaviteja&layout=compact&hide_border=true&bg_color=0d0e13&title_color=ff4655&text_color=e8e8ed" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DwarapuRaviteja&show_icons=true&hide_border=true&rank_icon=github&bg_color=0b1220&title_color=67e8f9&icon_color=a78bfa&text_color=e5e7eb" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarapuRaviteja&layout=compact&hide_border=true&bg_color=0b1220&title_color=67e8f9&text_color=e5e7eb" alt="Most used languages"/>
+</div>
+<div align="center">
+<img width="95%" src="https://streak-stats.demolab.com?user=DwarapuRaviteja&hide_border=true&background=0b1220&ring=22d3ee&fire=a78bfa&currStreakLabel=67e8f9&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub contribution streak"/>
+</div>
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DwarapuRaviteja&bg_color=0b1220&color=e5e7eb&line=22d3ee&point=a78bfa&area=true&hide_border=true" alt="Contribution activity graph"/>
 </div>
 
-<div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=DwarapuRaviteja&hide_border=true&background=0D0E13&ring=FF4655&fire=FFC857&currStreakLabel=FF4655&sideLabels=E8E8ED&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8D98" alt="GitHub streak"/>
-</div>
-
----
-
-## `04` — CONNECT
+## 🌐 Find me online
 
 <div align="center">
-  <a href="https://github.com/DwarapuRaviteja"><img src="https://img.shields.io/badge/GitHub-101116?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/raviteja-dwarapu-37b9b7323/"><img src="https://img.shields.io/badge/LinkedIn-101116?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/raviteja_dwarapu/"><img src="https://img.shields.io/badge/LeetCode-101116?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
-  <a href="https://www.codechef.com/users/raviteja_d"><img src="https://img.shields.io/badge/CodeChef-101116?style=for-the-badge&logo=codechef&logoColor=FFC857" alt="CodeChef"/></a>
-</div>
-
-<div align="center">
-
-### **STAY CURIOUS. BUILD BOLDLY. SHIP BETTER.**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08090d,50:351015,100:08090d&height=70&section=footer" width="100%" alt="Footer"/>
-
+<a href="https://github.com/DwarapuRaviteja"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/raviteja-dwarapu-37b9b7323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/raviteja_dwarapu/"><img src="https://img.shields.io/badge/LeetCode-262626?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://www.codechef.com/users/raviteja_d"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://www.hackerrank.com/profile/236K1A0581"><img src="https://img.shields.io/badge/HackerRank-166534?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<br/><br/>
+### *Stay curious. Build with purpose. Keep improving.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,55:312e81,100:111827" width="100%" alt="Animated footer"/>
 </div>
